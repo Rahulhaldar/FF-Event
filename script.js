@@ -1,4 +1,4 @@
-var images = ['https://i.pinimg.com/564x/af/1b/20/af1b206439974a4769235e167f2a5c60.jpg'];
+var images = ['https://i.ibb.co/6Rtd2RG8/DSC-5229.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
